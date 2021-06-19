@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-xg&8gix6(6l5a=0+1ju!*^873_02wmzcil5c-ff2rmyewn04k_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://codecol-anime-wallpaper.herokuapp.com/']
+ALLOWED_HOSTS = ['codecol-anime-wallpaper.herokuapp.com']
 
 
 # Application definition
